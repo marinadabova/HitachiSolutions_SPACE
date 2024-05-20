@@ -1,0 +1,7 @@
+Day/Parameter,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Temperature (C),15,16,16,17,17,16,16,15,15,14,14,14,13,13,13
+Wind (m/s),5,6,7,8,8,7,7,6,5,5,6,7,7,6,5
+Humidity (%),80,81,70,82,50,83,84,54,85,85,86,86,87,87,88
+Precipitation (%),30,30,25,25,20,0,15,0,10,10,15,15,20,20,25
+Lightning,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No
+Clouds,Cumulus,Stratus,Nimbus,Cirrus,Cumulus,Stratus,Cirrus,Cirrus,Cumulus,Stratus,Nimbus,Cirrus,Cumulus,Stratus,Nimbus
